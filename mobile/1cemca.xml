@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MobileClient xmlns="http://v8.1c.ru/8.3/mobile-application/app" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Конфигурация" id="649c833a-f859-4d66-9b4e-cdb99dd1c3de" formatVersion="2" defaultLanguage="Language.Русский">
+	<language name="Русский" id="5d18ac3e-5d32-478d-a4d7-0943b70dee9c" languageCode="ru">
+		<synonym>
+			<item xmlns="http://v8.1c.ru/8.1/data/core">
+				<lang>ru</lang>
+				<content>Русский</content>
+			</item>
+		</synonym>
+	</language>
+	<requiredPermission>
+		<permission>Multimedia</permission>
+		<use>false</use>
+	</requiredPermission>
+	<requiredPermission>
+		<permission>Calendars</permission>
+		<use>false</use>
+	</requiredPermission>
+	<requiredPermission>
+		<permission>BackgroundAudioPlayback</permission>
+		<use>false</use>
+	</requiredPermission>
+	<requiredPermission>
+		<permission>Location</permission>
+		<use>false</use>
+	</requiredPermission>
+	<requiredPermission>
+		<permission>Contacts</permission>
+		<use>false</use>
+	</requiredPermission>
+	<requiredPermission>
+		<permission>BackgroundLocation</permission>
+		<use>false</use>
+	</requiredPermission>
+	<requiredPermission>
+		<permission>Telephony</permission>
+		<use>false</use>
+	</requiredPermission>
+	<requiredPermission>
+		<permission>PushNotification</permission>
+		<use>false</use>
+	</requiredPermission>
+	<requiredPermission>
+		<permission>LocalNotification</permission>
+		<use>false</use>
+	</requiredPermission>
+	<requiredPermission>
+		<permission>Print</permission>
+		<use>false</use>
+	</requiredPermission>
+	<requiredPermission>
+		<permission>InAppPurchases</permission>
+		<use>false</use>
+	</requiredPermission>
+	<requiredPermission>
+		<permission>Ads</permission>
+		<use>false</use>
+	</requiredPermission>
+	<requiredPermission>
+		<permission>FileExchangeWithPersonalComputer</permission>
+		<use>false</use>
+	</requiredPermission>
+</MobileClient>
