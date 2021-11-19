@@ -1,0 +1,14 @@
+﻿Vendor=1C Company
+Name=MobileApplicationBuilder
+Version=8.3.19.82
+AppVersion=8.3
+[Config1]
+Catalog=Сборщик мобильных приложений
+Catalog_en=Mobile application builder
+Destination=MobileAppMaker
+Source=1Cv8.cf
+[Config2]
+Catalog=Сборщик мобильных приложений
+Catalog_en=Mobile application builder
+Destination=MobileAppMaker
+Source=1cv8.cfu
